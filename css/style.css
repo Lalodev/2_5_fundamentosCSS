@@ -211,7 +211,7 @@ p {
 }*/
 
 /*
-Pseudoelementos - Dan estilos a partes especificas de un elemento, se usa el :: para diferenciaslos de las pseudoclases
+Pseudoelementos - Dan estilos a partes especificas de un elemento, se usa el :: para diferenciarlos de las pseudoclases
 https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos
 */
 
@@ -266,7 +266,7 @@ https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos
 }
 
 /*
-El Algoritmo de CSS: Es la forma en que el navegador aplica los estilos al documento HTML. Es vital entender este concepto para que entiendas como se aplican y en alunas ocasiones se sobreescriben las reglas CSS.
+El Algoritmo de CSS: Es la forma en que el navegador aplica los estilos al documento HTML. Es vital entender este concepto para que entiendas como se aplican y en algunas ocasiones se sobreescriben las reglas CSS.
 1 - La Cáscada.
 2 - La Especificidad
 3 - La Herencia 
@@ -329,7 +329,7 @@ blockquote#cita-marco {
 }
 
 /*
-La Herencia, es la capacidad de un selector de obtener (heredar) los valores de sus ancestros màs cercanos, para aplicarla se usa el valor inherit, si queremos evitarla podemos asignar otro valor o inicializar la propiedad en cuestiòn con el valor incial 
+La Herencia, es la capacidad de un selector de obtener (heredar) los valores de sus ancestros más cercanos, para aplicarla se usa el valor inherit, si queremos evitarla podemos asignar otro valor o inicializar la propiedad en cuestión con el valor incial 
 
 https://web.dev/learn/css/inheritance/#which-properties-are-inheritable
 */

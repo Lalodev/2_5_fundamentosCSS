@@ -8,7 +8,8 @@ El navegador coloca cada elemento teniendo en cuenta el orden en el que aparece 
 Con FLOAT y POSITION podemos modificar este comportamiento.
 
 Elementos Flotantes
--float: Convierte un elemento en flotante desplázandolo hasta la zona más a la izquierda o más a la derecha de la posición en la originalmente se encontraba.
+-float: Convierte un elemento en flotante desplázandolo hasta la zona más a la izquierda o más a la derecha de la posición en la que  
+originalmente se encontraba.
 -clear: Limpia la flotación (left,right,both)
 
 Tipos de Posicionamiento: 
@@ -112,7 +113,7 @@ fixed: El elemento pierde sus dimensiones y posición original en el flujo del d
 }
 
 /*
-sticky: es una combinación de posicionamiento relative y fixed, para este posicionamiento las propiedades de top, left, bottom y right no mueven el elemento, sirven como un punto de refertencia, mientras no lleguen a ese valor el elemento se comporta como relative, cuando llega se convierte en fixed.
+sticky: es una combinación de posicionamiento relative y fixed, para este posicionamiento las propiedades de top, left, bottom y right no mueven el elemento, sirven como un punto de referencia, mientras no lleguen a ese valor el elemento se comporta como relative, cuando llega se convierte en fixed.
 
 Para que este comportamiento funcione el elemento sticky debe ser hijo directo de body o su elemento contenedor debe tener dimensiones y sólo será sticky dentro de las dimensiones de su contenedor padre.
 */
